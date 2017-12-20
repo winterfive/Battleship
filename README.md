@@ -6,4 +6,4 @@ I've rewritten it three times:
 2v: first oop	      here: https://github.com/winterfive/Battleship
 3v: second oop    https://github.com/winterfive/learning_OOP_Java/tree/master/Battleship_updated
 
-Each time, I've applied knowledge gained from creating the previous version.
+In writing each version, I've applied knowledge gained from creating the previous version.
