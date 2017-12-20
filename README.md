@@ -4,9 +4,7 @@ This is the first oop version of Battleship that I've written and the first OOP 
 I've rewritten it three times:
 
 1v: procedural(mostly)		https://github.com/winterfive/Microsoft_OOP_Java/tree/master/Battleship
-
 2v: first oop	      here: https://github.com/winterfive/Battleship
-
 3v: second oop    https://github.com/winterfive/learning_OOP_Java/tree/master/Battleship_updated
 
 
