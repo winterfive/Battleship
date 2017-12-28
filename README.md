@@ -1,3 +1,4 @@
+#battleship  
 
 Battleship is a grid based (2D array) game that you can play against the computer.
 
